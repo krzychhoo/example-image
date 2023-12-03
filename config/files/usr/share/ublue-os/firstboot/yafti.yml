@@ -1,4 +1,4 @@
-title: Welcome to uBlue
+title: Welcome to your own image
 properties:
   mode: "run-on-change"
 screens:
@@ -95,6 +95,7 @@ screens:
             - Google Chrome: com.google.Chrome
             - Microsoft Edge: com.microsoft.Edge
             - Opera: com.opera.Opera
+            - ungoogled-chromium: com.github.Eloston.UngoogledChromium
         Gaming:
           description: "Rock and Stone!"
           default: false
